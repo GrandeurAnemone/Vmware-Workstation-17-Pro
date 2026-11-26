@@ -1,0 +1,27 @@
+{
+  "repo": "vmware-workstation-17-professional",
+  "product": "Vmware Workstation 17 Pro",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "vmware-workstation-17-pro",
+    "vmware-workstation",
+    "vmware-workstation-17",
+    "vmware-workstation-pro",
+    "virtualization",
+    "hypervisor",
+    "vm-management",
+    "esxi",
+    "how-to-install-vmware-workstation",
+    "how-to-setup-vmware-workstation",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Vmware Workstation 17 Pro"
+}
